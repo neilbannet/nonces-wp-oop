@@ -1,0 +1,28 @@
+{
+  "name": "neilbannet/nonces-wp-oop",
+  "homepage": "https://github.com/neilbannet/nonces-wp-oop",
+  "description": "Demonstration of using WordPress nonces with object oriented approach.",
+  "keywords": [
+    "wordpress",
+    "nonces",
+    "object",
+    "class",
+    "nonce",
+    "php",
+    "wp",
+    "oop",
+    "git",
+    "composer"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "wordpress-addon",
+  "authors": [
+    {
+      "name": "Zain Ul Abadin",
+      "email": "neilbannet@outlook.com"
+    }
+  ],
+  "require": {
+  }
+}
