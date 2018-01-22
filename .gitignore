@@ -1,0 +1,7 @@
+# Intellij IDE
+.idea/
+
+#Other
+vendor/
+composer.lock
+.DS_Store
