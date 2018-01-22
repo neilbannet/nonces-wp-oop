@@ -9,6 +9,8 @@ Demonstration of using WordPress nonces with object oriented approach.
 ## Usage
 The code refers to the wordPress workflow for nonce URL creation and verification. For more info see [Codex](https://codex.wordpress.org/Function_Reference/wp_nonce_url).
 
+Note: You can place "src" folder in the worpdress plugins directlory and it start working as a plugin.
+
 ### Nonce Url Generation
 To add a nonce to a URL, WordPress uses `wp_nonce_url()` specifying the bare *url* and a string representing the *action*. Optionally is possible to specify a string for the *name* parameter, otherwise it defaults to *'_wpnonce'*.
 
