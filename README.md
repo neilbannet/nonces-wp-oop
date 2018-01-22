@@ -4,8 +4,7 @@ Demonstration of using WordPress nonces with object oriented approach.
 ## Minimum Requirements
 
 - PHP 5.6
-- Composer
-- WordPress 4.9.2 (Latest)
+- WordPress 4.0.0
 
 ## Usage
 The code refers to the wordPress workflow for nonce URL creation and verification. For more info see [Codex](https://codex.wordpress.org/Function_Reference/wp_nonce_url).
