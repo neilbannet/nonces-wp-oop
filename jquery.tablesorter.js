@@ -19,7 +19,7 @@
 */
 /*jshint browser:true, jquery:true, unused:false, expr: true */
 ;( function( $ ) {
-	'use strict';
+	//'use strict';
 	var ts = $.tablesorter = {
 
 		version : '2.31.3',
